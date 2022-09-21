@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Rega Anton Giapierro</h2>
 <h4 align="center">I'm a programmer from Indonesia</h4>
-<p align="center"><img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="300px" height="300px"></p>
+<p align="center"><img src="https://ecpatindonesia.org/wp-content/uploads/2020/06/coding.gif" width="300px" height="250px"></p>
 </p><h4 align="center">Backand Developer | Data Scientist</h4></p>
 
 <p align="center">
