@@ -4,13 +4,13 @@
 </p><h4 align="center">Backand Developer | Data Scientist</h4></p>
 
 <p align="center">
-  <a href="https://www.facebook.com/rega.rega.716/">
+  <a href="#">
     <img alt="Rega's Facebook" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rega.ag/">
     <img alt="Rega's Instagram" src="https://img.shields.io/badge/Instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
-   <a href="https://www.youtube.com/channel/UCe2--MxVplfNuvDFrC4dJ6g">
+   <a href="#">
     <img alt="Rega's Youtube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
    </a>
 </p>
