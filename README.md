@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Rega's Facebook" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img alt="Rega's Facebook" src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=0866ff" />
   </a>
   <a href="https://www.instagram.com/rega.ag/">
-    <img alt="Rega's Instagram" src="https://img.shields.io/badge/Instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Rega's Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=DD2A7B" />
    </a>
-   <a href="#">
-    <img alt="Rega's Youtube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+   <a href="https://www.linkedin.com/in/rega-anton-giapierro-297029226/">
+    <img alt="Rega's Linkedin" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
    </a>
 </p>
 
